@@ -6,6 +6,13 @@
   padding: 30px;
 }
 
+.logo-text {
+  margin: 0 auto;
+  font-size: 32px;
+  font-weight: 700;
+  color: green;
+}
+
 .link {
   font-size: 40px;
   font-weight: bold;
