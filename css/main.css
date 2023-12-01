@@ -17,12 +17,18 @@
   text-transform: capitalize;
 }
 
+.adress {
+  margin: 10%;
+  font-size: 24px;
+  font-weight: 500;
+}
+
 .link {
   font-size: 40px;
   font-weight: bold;
   color: blue;
-  background-color: black;
   padding: 15px 20px 30px;
   text-decoration: none;
   font-style: normal;
+  font-variant: normal;
 }/*# sourceMappingURL=main.css.map */
