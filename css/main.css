@@ -1,13 +1,6 @@
 .adress {
   color: red;
-}
-
-.logo {
-  font-size: 32px;
-}
-
-.logo-text {
-  font-style: italic;
+  background-color: black;
 }
 
 .link {
