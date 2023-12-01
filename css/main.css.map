@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"version":3,"sources":["../sass/components/_header.scss","main.css","../sass/components/_footer.scss"],"names":[],"mappings":"AAAA;EACI,cAAA;EACA,eAAA;EACA,gBAAA;EACA,UAAA;EACA,aAAA;ACCJ;;ADGA;EACI,cAAA;EACA,eAAA;EACA,gBAAA;EACA,YAAA;EACA,aAAA;EACA,cAAA;EACA,gBAAA;EACA,4BAAA;EACA,0BAAA;ACAJ;;AClBA;EACA,eAAA;EACA,iBAAA;EACA,WAAA;EACA,uBAAA;ADqBA","file":"main.css"}
+=======
+{"version":3,"sources":["../sass/components/_header.scss","main.css","../sass/components/_footer.scss"],"names":[],"mappings":"AAAA;EACI,cAAA;EACA,eAAA;EACA,gBAAA;EACA,UAAA;EACA,aAAA;ACCJ;;ADGA;EACI,cAAA;EACA,eAAA;EACA,gBAAA;EACA,YAAA;ACAJ;;ACbA;EACA,eAAA;EACA,iBAAA;EACA,WAAA;EACA,uBAAA;EACA,uBAAA;EACA,qBAAA;ADgBA","file":"main.css"}
+>>>>>>> 1d18ab95101365f46e2e6fcf1e374efceb89f226
